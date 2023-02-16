@@ -3,8 +3,8 @@ Repo for managing tools and issues for the Club Bots integration on social netwo
 
 Functions:
 * Offer Airdrops to your own community holders in automatic.
-* Send Tokens inside the chat with a command. Send 2 BNB to @username
-* Split Tones to your community holders.
+* Send Tokens inside the chat with a command. Example. "Send 2 BNB to @username"
+* Split Tokens to your community holders.
 * Swap Tokens.
 * and many more functions.
 
